@@ -5,12 +5,12 @@
 
 ## Hva eksamen dekker
 
-| Domene | Vekt |
+| Domain | Weight |
 |---|---|
-| Konsepter innen sikkerhet, compliance og identitet | 10–15 % |
-| Microsoft Entra (identitet og tilgang) | 25–30 % |
-| Sikkerhetsløsninger i Microsoft | 35–40 % |
-| Compliance-løsninger i Microsoft | 20–25 % |
+| Describe the concepts of security, compliance, and identity | 10–15 % |
+| Describe the capabilities of Microsoft Entra | 25–30 % |
+| Describe the capabilities of Microsoft security solutions | 35–40 % |
+| Describe the capabilities of Microsoft compliance solutions | 20–25 % |
 
 ## Hvordan jeg studerte
 
@@ -21,7 +21,7 @@
 
 ## Notater
 
-[`SC-900_Eksamensnotater.pdf`](./SC-900_Eksamensnotater.pdf) er studiedokumentet mitt. Det inneholder en jukselapp med scenario og svar, ett kapittel per eksamensdomene, en oversikt over begreper som lett forveksles, og en selvtest.
+[`SC-900_Eksamensnotater.pdf`](./SC-900_notater.pdf) er notatene jeg brukte.
 
 **Slik er notatene laget:** Notatene er mine egne, skrevet mens jeg studerte med Microsoft Learn. Deretter ba jeg en AI-assistent om å rydde opp i strukturen og optimalisere dem for eksamensøving (jukselapp, forvekslingspar og selvtest). Jeg har gått gjennom resultatet, men det kan fortsatt inneholde feil eller utdatert informasjon, og lisenskrav og funksjonsstatus endres ofte. Sjekk [Microsoft Learn](https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/) før du stoler på innholdet.
 
