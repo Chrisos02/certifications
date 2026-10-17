@@ -4,7 +4,7 @@
 **Utsteder:** Microsoft
 **Credential:** [Verifiser hos Microsoft Learn / Credly](https://learn.microsoft.com/en-us/users/chrisosmundsen-2956/credentials/a7d861db6fd76d98?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-![Credential](SC-900_certificate.png)
+![Credential](SC900_certificate.png)
 
 ## Hva eksamen dekker
 
@@ -17,7 +17,7 @@
 
 ## Notater
 
-[`SC-900_Eksamensnotater.pdf`](./SC900_notater.pdf) er notatene jeg brukte.
+[`SC-900_Eksamensnotater.pdf`](./SC-900_notater.pdf) er notatene jeg brukte.
 
 Notatene er mine egne, skrevet mens jeg studerte med Microsoft Learn. Deretter ba jeg en AI-assistent om å rydde opp i strukturen og optimalisere dem for eksamensøving. Jeg har gått gjennom resultatet, men det kan fortsatt inneholde feil eller utdatert informasjon, og lisenskrav og funksjonsstatus endres ofte. Sjekk [Microsoft Learn](https://learn.microsoft.com/credentials/certifications/security-compliance-and-identity-fundamentals/) før du stoler på innholdet.
 
