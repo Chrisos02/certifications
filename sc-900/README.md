@@ -3,7 +3,7 @@
 **Status:** Bestått, oktober 2026
 **Credential:** [Verifiser hos Microsoft Learn / Credly](https://learn.microsoft.com/en-us/users/chrisosmundsen-2956/credentials/a7d861db6fd76d98?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
-![Credential](SC-900-certificate.png)
+![Credential](SC-900_certificate.png)
 
 ## Hva eksamen dekker
 
