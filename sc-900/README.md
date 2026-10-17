@@ -1,6 +1,7 @@
 # SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 
-**Status:** Bestått, oktober 2026
+**Status:** Fullført, 17. oktober 2026
+**Utsteder:** Microsoft
 **Credential:** [Verifiser hos Microsoft Learn / Credly](https://learn.microsoft.com/en-us/users/chrisosmundsen-2956/credentials/a7d861db6fd76d98?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ![Credential](SC-900_certificate.png)
