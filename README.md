@@ -9,6 +9,3 @@ My certifications and the study material behind them. Each certification has its
 | Security, Compliance, and Identity Fundamentals (SC-900) | Microsoft | October 2026 | [sc-900](./sc-900) |
 | CCNA (200-301) | Cisco | In progress | – |
 
-## About me
-
-Cybersecurity graduate based in Norway, working towards a career in networking and security. More on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE).
