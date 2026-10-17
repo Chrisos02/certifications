@@ -12,6 +12,6 @@
 
 | Sertifisering | Utsteder | Dato | Mappe |
 |---|---|---|---|
+| Google Cybersecurity Certificate | Google | September 2025 | – |
 | Security, Compliance, and Identity Fundamentals (SC-900) | Microsoft | Oktober 2026 | [sc-900](./sc-900) |
-| Google Cybersecurity Certificate | Google (Coursera) | 2025 | – |
 | CCNA (200-301) | Cisco | Under arbeid | – |
