@@ -3,8 +3,6 @@
 **Status:** Bestått, oktober 2026
 **Credential:** [Verifiser hos Microsoft Learn / Credly](LEGG-INN-LENKE)
 
-![SC-900-sertifikat](./SC-900_certificate.png)
-
 ## Hva eksamen dekker
 
 | Domene | Vekt |
