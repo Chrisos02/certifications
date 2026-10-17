@@ -15,13 +15,6 @@
 | Describe the capabilities of Microsoft security solutions | 35–40 % |
 | Describe the capabilities of Microsoft compliance solutions | 20–25 % |
 
-## Hvordan jeg studerte
-
-- Microsoft Learn
-- Skrev egne notater per domene
-- Brukte AI til å strukturere om og optimalisere notatene for eksamensøving (se under)
-- Øvde på selvtester og forvekslingspar (alert vs. incident, SIEM vs. XDR, DLP vs. Insider Risk)
-
 ## Notater
 
 [`SC-900_Eksamensnotater.pdf`](./SC-900_notater.pdf) er notatene jeg brukte.
